@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2oTHfCq69PT9vEq7ZvchGDG/N9aqUgwNjHoJuv28NQw=",
+  "Source": "PocSessionRedis.Api",
+  "BasePath": "_content/PocSessionRedis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

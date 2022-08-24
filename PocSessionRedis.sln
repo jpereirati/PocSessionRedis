@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4A8894A-23E5-4D9A-800B-B647FE2DDEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocSessionRedis.Api", "src\PocSessionRedis.Api\PocSessionRedis.Api.csproj", "{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B0AEB6E-4E1E-4E7E-8BC1-392FEB5AD832} = {A4A8894A-23E5-4D9A-800B-B647FE2DDEC3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E98511-C9D6-40C8-A38E-7B2B9242DC3D}
+	EndGlobalSection
+EndGlobal
